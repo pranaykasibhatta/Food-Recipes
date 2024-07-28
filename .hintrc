@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "development",
+    "--jsx"
+  ],
+  "hints": {
+    "no-inline-styles": "off"
+  }
+}
